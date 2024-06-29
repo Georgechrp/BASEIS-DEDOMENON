@@ -1,0 +1,1 @@
+SELECT main_producer FROM albums WHERE albums.title = 'Absolution';
